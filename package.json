@@ -1,0 +1,15 @@
+{
+  "name": "tab-right",
+  "main": "./lib/tab-right",
+  "version": "0.0.0",
+  "description": "Move active tab to the right end",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/tab-right",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

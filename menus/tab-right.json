@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "toRight",
+        "command": "tab-right:toRight"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tab-right",
+          "submenu": [
+            {
+              "label": "toRight",
+              "command": "tab-right:toRight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
