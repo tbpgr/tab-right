@@ -5,7 +5,7 @@
   "description": "Move active tab to the right end",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/tab-right",
+  "repository": "https://github.com/tbpgr/tab-right",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
