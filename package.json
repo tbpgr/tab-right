@@ -1,15 +1,13 @@
 {
   "name": "tab-right",
   "main": "./lib/tab-right",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Move active tab to the right end",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/tbpgr/tab-right",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
